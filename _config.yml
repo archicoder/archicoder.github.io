@@ -1,0 +1,3 @@
+markdown: rdiscount
+highlighter: pygments
+port: 4444
