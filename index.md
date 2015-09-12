@@ -3,7 +3,7 @@ layout: french
 title: ArchiCoder
 css: home
 ---
-<img src="/img/logo-archicoder.png" style="width: 15%">
+<img src="/img/logo-archicoder.png">
 
 # Services Internet et Applications Mobiles
 
